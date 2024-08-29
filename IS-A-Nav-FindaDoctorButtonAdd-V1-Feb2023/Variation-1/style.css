@@ -1,0 +1,21 @@
+/* Variation 1 */
+
+.ob6 {}
+
+	.ob6 .secondary-menu-ul {}
+
+		.ob6 .secondary-menu-ul .nav-item {}
+
+		.ob6 .secondary-menu-ul .nav-item--find-a-doctor {}
+
+	.ob6 .secondary-navbar {}
+
+		.ob6 .secondary-navbar .nav-item {}
+
+		.ob6 .secondary-navbar .nav-item--find-a-doctor {}
+
+			.ob6 .secondary-navbar .nav-item--find-a-doctor a,
+			.ob6 .secondary-navbar .nav-item--find-a-doctor #btn--find-a-doctor {}
+
+			.ob6 .secondary-navbar .nav-item--find-a-doctor a:focus,
+			.ob6 .secondary-navbar .nav-item--find-a-doctor a:hover {}
